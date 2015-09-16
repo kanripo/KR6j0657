@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說一切如來安像三昧儀軌經
+#+DATE: 2015-08-30 20:37:10.490921
+#+PROPERTY: JUAN 0
