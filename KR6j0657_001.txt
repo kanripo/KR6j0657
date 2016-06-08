@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:37:10.294385
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:43
 #+TITLE: 佛說一切如來安像三昧儀軌經
 #+PROPERTY: CBETA_ID T21n1418
 #+PROPERTY: ID KR6j0657
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1418
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0657_T_001-0933b> 
 #+PROPERTY: JUAN 1
 ¶
-No.1418¶
-
- 佛說一切如來安像三昧儀¶
+No. 1418¶
+佛說一切如來安像三昧儀¶
 軌經¶
 ¶
 西天譯經三藏朝散大夫試鴻臚少卿¶
@@ -88,7 +87,7 @@ No.1418¶
 唵薩哩嚩(二合)怛他誐多迦野尾戍馱儞(引)娑¶
 嚩(二合)賀(引)¶
 
-若賢瓶用五或八。以白檀香塗之。種種香水¶
+若賢瓶用五或八。以白檀香塗之。種種香氷¶
 滿彼瓶中而即加持。復令童女合線。染成五¶
 色上好新鮮纏瓶周迴。復用五寶五藥花菓¶
 等入於賢瓶。誦最勝佛頂真言或白傘蓋真¶
