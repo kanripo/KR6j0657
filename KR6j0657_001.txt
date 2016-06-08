@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:37:10.294385
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:43
 #+TITLE: 佛說一切如來安像三昧儀軌經
 #+PROPERTY: CBETA_ID T21n1418
 #+PROPERTY: ID KR6j0657
